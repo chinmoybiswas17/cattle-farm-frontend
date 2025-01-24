@@ -1,0 +1,62 @@
+[
+    {
+        "name": "ORGANIC FRESH MEAT",
+        "image": "https://i.ibb.co/QKW6nnv/product-01.jpg",
+        "price": 45.00
+    },
+    {
+        "name": "ORGANIC FRESH MILK",
+        "image": "https://i.ibb.co/zXJLFQs/product-02.jpg",
+        "price": 29.00
+    },
+    {
+        "name": "MIKADO CHEESE BAR",
+        "image": "  https://i.ibb.co/C59PXyq/product-03.jpg",
+        "price": 20.00
+    },
+    {
+        "name": "CUSTARD OIL 500ML",
+        "image": " https://i.ibb.co/s1yvPKh/product-04.jpg",
+        "price": 34.00
+    },
+    {
+        "name": "PURE 500ML MILK",
+        "image": " https://i.ibb.co/ph1qhH1/product-05.jpg",
+        "price": 32.00
+    },
+    {
+        "name": "FRESH MEAT 1KG",
+        "image": "https://i.ibb.co/F7vd79V/product-06.jpg",
+        "price": 28.00
+    },
+    {
+        "name": "MIKADO CHEESE BAR",
+        "image": "https://i.ibb.co/6RG4xFw/product-07.jpg",
+        "price": 26.00
+    },
+    {
+        "name": "CUSTARD OIL 500ML",
+        "image": " https://i.ibb.co/n3SvJr8/product-08.jpg",
+        "price": 33.00
+    },
+    {
+        "name": "FRESH MEAT 1KG",
+        "image": " https://i.ibb.co/RCTRctH/product-09.jpg",
+        "price": 35.00
+    },
+    {
+        "name": "PURE 500ML MILK",
+        "image": "  https://i.ibb.co/gyL4yLD/product-10.jpg",
+        "price": 15.00
+    },
+    {
+        "name": "MIKADO CHEESE BAR",
+        "image": " https://i.ibb.co/QKW6nnv/product-01.jpg",
+        "price": 20.00
+    },
+    {
+        "name": "CUSTARD OIL 500ML",
+        "image": " https://i.ibb.co/pxyZ9K4/product-12.jpg",
+        "price": 35.00
+    }
+]

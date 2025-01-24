@@ -1,0 +1,98 @@
+[
+    {
+        "origin": "Australian Cow",
+        "image": "https://i.ibb.co/ZgCrmYR/cow-5.jpg",
+        "price": 150000,
+        "age": 14,
+        "weight": 200,
+        "category": "cow"
+    },
+    {
+        "origin": "Indian Cow",
+        "image": "https://i.ibb.co/ZgCrmYR/cow-5.jpg",
+        "price": 150000,
+        "age": 14,
+        "weight": 200,
+        "category": "cow"
+    },
+    {
+        "origin": "Country Cow",
+        "image": "https://i.ibb.co/ZgCrmYR/cow-5.jpg",
+        "price": 120000,
+        "age": 12,
+        "weight": 150,
+        "category": "cow"
+    },
+    {
+        "origin": "Australian Cow",
+        "image": "https://i.ibb.co/ZgCrmYR/cow-5.jpg",
+        "price": 150000,
+        "age": 14,
+        "weight": 200,
+        "category": "cow"
+    },
+    {
+        "origin": "Indian Cow",
+        "image": "https://i.ibb.co/ZgCrmYR/cow-5.jpg",
+        "price": 150000,
+        "age": 14,
+        "weight": 200,
+        "category": "cow"
+    },
+    {
+        "origin": "Country Cow",
+        "image": "https://i.ibb.co/ZgCrmYR/cow-5.jpg",
+        "price": 120000,
+        "age": 12,
+        "weight": 150,
+        "category": "cow"
+    },
+    {
+        "origin": "Country Goat",
+        "image": "https://i.ibb.co/prXhQtr/goat.jpg",
+        "price": 18000,
+        "age": 7,
+        "weight": 25,
+        "category": "goat"
+    },
+    {
+        "origin": "Country Goat",
+        "image": "https://i.ibb.co/prXhQtr/goat.jpg",
+        "price": 18000,
+        "age": 7,
+        "weight": 25,
+        "category": "goat"
+    },
+    {
+        "origin": "Country Goat",
+        "image": "https://i.ibb.co/prXhQtr/goat.jpg",
+        "price": 18000,
+        "age": 7,
+        "weight": 25,
+        "category": "goat"
+    },
+    {
+        "origin": "Country Goat",
+        "image": "https://i.ibb.co/prXhQtr/goat.jpg",
+        "price": 18000,
+        "age": 7,
+        "weight": 25,
+        "category": "goat"
+    },
+    {
+        "origin": "Country Goat",
+        "image": "https://i.ibb.co/prXhQtr/goat.jpg",
+        "price": 18000,
+        "age": 7,
+        "weight": 25,
+        "category": "goat"
+    },
+    {
+        "origin": "Country Goat",
+        "image": "https://i.ibb.co/prXhQtr/goat.jpg",
+        "price": 18000,
+        "age": 7,
+        "weight": 25,
+        "category": "goat"
+    }
+]
